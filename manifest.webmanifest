@@ -1,0 +1,15 @@
+{
+  "name": "Sankashti Chaturthi Moonrise",
+  "short_name": "Sankashti",
+  "description": "Moonrise time at your location to break the Sankashti Chaturthi fast.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0820",
+  "theme_color": "#1a1033",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
